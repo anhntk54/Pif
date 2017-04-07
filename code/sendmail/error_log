@@ -1,0 +1,7 @@
+[19-Oct-2016 12:22:07 UTC] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/pifc94bf/public_html/thanhvien/index.php on line 2
+[19-Oct-2016 12:22:07 UTC] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/pifc94bf/public_html/thanhvien/index.php on line 2
+[19-Oct-2016 12:22:07 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.;/path/to/php/pear') in /home/pifc94bf/public_html/thanhvien/index.php on line 2
+[19-Oct-2016 12:28:55 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/pifc94bf/public_html/thanhvien/class.smtp.php on line 358
+[19-Oct-2016 12:30:38 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/pifc94bf/public_html/thanhvien/class.smtp.php on line 358

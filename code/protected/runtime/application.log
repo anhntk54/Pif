@@ -1,0 +1,1313 @@
+2017/03/13 13:51:42 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/13 16:31:14 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/13 22:54:34 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 01:08:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/14 08:41:36 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 09:30:07 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 12:07:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/14 13:10:05 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 13:27:55 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 13:47:31 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 13:48:21 [error] [php] Undefined index: id (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php:243)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): InvesteffectController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): InvesteffectController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): InvesteffectController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Investeffect/Bc
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php (243)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 14:54:08 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 14:57:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/14 14:57:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ulpqdaaby.html".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('ulpqdaaby.html')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ulpqdaaby.html
+---
+2017/03/14 16:00:11 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/14 17:37:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/14 21:25:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "templates/fonts/arial.woff2) format("woff2"), url(../fonts/arial.woff) format("woff"".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/fonts...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/templates/fonts/arial.woff2)%20format(%22woff2%22),%20url(../fonts/arial.woff)%20format(%22woff%22
+HTTP_REFERER=http://members.pif.vn/ContactPen
+---
+2017/03/14 21:25:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "templates/fonts/arialbd.woff2) format("woff2"), url(../fonts/arialbd.woff) format("woff"".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/fonts...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/templates/fonts/arialbd.woff2)%20format(%22woff2%22),%20url(../fonts/arialbd.woff)%20format(%22woff%22
+HTTP_REFERER=http://members.pif.vn/ContactPen
+---
+2017/03/15 08:42:45 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 08:45:38 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 10:16:41 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 10:33:29 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 10:33:56 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 10:34:15 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 10:34:27 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 11:10:31 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 11:51:48 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 12:12:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/ContractController.php:854
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/ContractController.php(629): ContractController->loadModel('672')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/actions/CInlineAction.php(49): ContractController->actionDeleteHD()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CController->run('DeleteHD')
+#6 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('piadmin/Contrac...')
+#7 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#8 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/piadmin/Contract/DeleteHD
+HTTP_REFERER=http://members.pif.vn/piadmin/Contract
+---
+2017/03/15 12:12:27 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 13:15:13 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 14:05:25 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/15 17:33:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/15 17:33:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/15 17:34:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/15 17:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/15 17:34:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/15 17:34:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/15 20:03:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/16 09:11:19 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/16 10:19:23 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/16 10:20:07 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/16 10:27:09 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/16 11:15:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/16 11:44:47 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/16 14:52:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/16 14:54:46 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/16 18:49:33 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/16 19:13:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/16 22:24:08 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/17 03:18:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/17 05:21:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/17 08:47:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/17 08:57:18 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/17 09:12:37 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/17 11:22:17 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/17 11:40:32 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/17 13:43:43 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/17 15:57:28 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/17 16:22:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/17 16:32:18 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/17 21:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/17 22:14:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/17 22:26:51 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/18 15:44:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/19 13:01:24 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/19 13:01:56 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/19 13:12:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/19 15:13:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/19 15:54:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/19 20:16:24 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/19 21:23:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/19 21:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/20 05:57:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/20 10:32:37 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/20 12:53:18 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/20 14:54:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/home".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/home')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/home
+---
+2017/03/20 14:54:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/home".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/home')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/home
+---
+2017/03/20 15:00:48 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/20 17:37:08 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/20 17:46:51 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/20 18:47:30 [error] [php] file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (/home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php:9694)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php(13312): mPDF->OpenTag()
+#1 /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php(262): mPDF->WriteHTML()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/actions/CInlineAction.php(49): InvesteffectController->actionBc()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): InvesteffectController->runAction()
+#5 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): InvesteffectController->runActionWithFilters()
+#6 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): InvesteffectController->run()
+#7 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Investeffect/BC
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (9694)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (16742)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (13312)
+2017/03/20 18:48:40 [error] [php] file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (/home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php:9694)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php(13312): mPDF->OpenTag()
+#1 /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php(262): mPDF->WriteHTML()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/actions/CInlineAction.php(49): InvesteffectController->actionBc()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): InvesteffectController->runAction()
+#5 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): InvesteffectController->runActionWithFilters()
+#6 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): InvesteffectController->run()
+#7 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Investeffect/BC
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (9694)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (16742)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (13312)
+2017/03/20 18:54:55 [error] [php] file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (/home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php:9694)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php(13312): mPDF->OpenTag()
+#1 /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php(262): mPDF->WriteHTML()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/actions/CInlineAction.php(49): InvesteffectController->actionBc()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): InvesteffectController->runAction()
+#5 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): InvesteffectController->runActionWithFilters()
+#6 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): InvesteffectController->run()
+#7 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Investeffect/BC
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (9694)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (16742)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (13312)
+2017/03/20 19:05:01 [error] [php] file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (/home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php:9694)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php(13312): mPDF->OpenTag()
+#1 /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php(262): mPDF->WriteHTML()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/actions/CInlineAction.php(49): InvesteffectController->actionBc()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): InvesteffectController->runAction()
+#5 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): InvesteffectController->runActionWithFilters()
+#6 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): InvesteffectController->run()
+#7 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Investeffect/BC
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (9694)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (16742)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (13312)
+2017/03/20 19:08:55 [error] [php] file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php:300)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): InvesteffectController->runAction()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): InvesteffectController->runActionWithFilters()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): InvesteffectController->run()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Investeffect/BC
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php (300)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/20 19:14:01 [error] [php] file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (/home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php:9694)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php(13312): mPDF->OpenTag()
+#1 /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php(262): mPDF->WriteHTML()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/actions/CInlineAction.php(49): InvesteffectController->actionBc()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): InvesteffectController->runAction()
+#5 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): InvesteffectController->runActionWithFilters()
+#6 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): InvesteffectController->run()
+#7 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#9 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Investeffect/BC
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (9694)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (16742)
+in /home/pimember/domains/members.pif.vn/public_html/protected/vendors/mpdf/mpdf.php (13312)
+2017/03/20 19:16:51 [error] [php] file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php:300)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): InvesteffectController->runAction()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): InvesteffectController->runActionWithFilters()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): InvesteffectController->run()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#6 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Investeffect/BC
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/InvesteffectController.php (300)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/21 01:33:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/21 08:37:16 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/21 10:38:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/21 12:53:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/21 15:38:51 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/21 15:59:42 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/21 17:18:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/21 17:48:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "templates/fonts/arialbd.woff2) format("woff2"), url(../fonts/arialbd.woff) format("woff"".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/fonts...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/templates/fonts/arialbd.woff2)%20format(%22woff2%22),%20url(../fonts/arialbd.woff)%20format(%22woff%22
+HTTP_REFERER=http://members.pif.vn/ContactPen
+---
+2017/03/21 17:49:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "templates/fonts/arial.woff2) format("woff2"), url(../fonts/arial.woff) format("woff"".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('templates/fonts...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/templates/fonts/arial.woff2)%20format(%22woff2%22),%20url(../fonts/arial.woff)%20format(%22woff%22
+HTTP_REFERER=http://members.pif.vn/ContactPen
+---
+2017/03/21 18:04:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/21 20:43:05 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/21 22:37:45 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 02:45:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/22 02:56:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/22 08:43:13 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 08:43:55 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 09:15:15 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 10:17:15 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 10:30:26 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 10:30:45 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 10:34:06 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 11:08:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/22 13:48:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/22 14:53:00 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 14:58:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/22 15:13:03 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 16:33:09 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 16:44:55 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 16:45:39 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/22 18:17:06 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 03:46:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/23 07:27:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/23 08:37:14 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 09:55:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/938528fe/contents.css".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/938528fe...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/938528fe/contents.css
+---
+2017/03/23 10:17:24 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 11:56:20 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 12:05:32 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 12:32:40 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 13:12:54 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 13:48:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/938528fe/contents.css".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/938528fe...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/938528fe/contents.css
+---
+2017/03/23 13:59:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/938528fe/contents.css".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/938528fe...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/938528fe/contents.css
+---
+2017/03/23 14:02:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/938528fe/contents.css".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/938528fe...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/938528fe/contents.css
+---
+2017/03/23 14:02:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/938528fe/contents.css".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/938528fe...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/938528fe/contents.css
+---
+2017/03/23 14:03:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/938528fe/contents.css".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/938528fe...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/938528fe/contents.css
+---
+2017/03/23 14:03:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/938528fe/contents.css".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/938528fe...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/938528fe/contents.css
+---
+2017/03/23 14:14:50 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 14:30:52 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 15:09:54 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 16:28:15 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 18:53:19 [warning] [application] Failed to set unsafe attribute "mst" of "ContactPenForm".
+in /home/pimember/domains/members.pif.vn/public_html/protected/controllers/ContactPenController.php (155)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/23 23:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/24 00:36:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/24 01:06:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/24 03:00:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/24 04:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/24 06:09:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2017/03/24 08:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "browserconfig.xml".' in /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('browserconfig.x...')
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/browserconfig.xml
+---
+2017/03/24 09:39:41 [error] [php] Array to string conversion (/home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php:197)
+Stack trace:
+#0 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(286): CustomerController->runAction()
+#1 /home/pimember/domains/members.pif.vn/public_html/framework/web/CController.php(265): CustomerController->runActionWithFilters()
+#2 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(282): CustomerController->run()
+#3 /home/pimember/domains/members.pif.vn/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /home/pimember/domains/members.pif.vn/public_html/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#5 /home/pimember/domains/members.pif.vn/public_html/index.php(13): CWebApplication->run()
+REQUEST_URI=/piadmin/Customer/GetCustomer
+in /home/pimember/domains/members.pif.vn/public_html/protected/modules/piadmin/controllers/CustomerController.php (197)
+in /home/pimember/domains/members.pif.vn/public_html/index.php (13)
+2017/03/25 14:37:18 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/Volumes/DATA/WORK/PROJECT/CODE/Pif/code/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/Volumes/DATA/W...')
+#1 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CClientScript.php(511): CAssetManager->publish('/Volumes/DATA/W...')
+#3 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CClientScript.php(548): CClientScript->getCoreScriptUrl()
+#4 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CClientScript.php(349): CClientScript->getPackageBaseUrl('jquery')
+#5 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CClientScript.php(208): CClientScript->renderCoreScripts()
+#6 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CController.php(351): CClientScript->render('<!DOCTYPE html>...')
+#7 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CController.php(788): CController->processOutput('<!DOCTYPE html>...')
+#8 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/protected/controllers/ContactPenController.php(136): CController->render('index', Array)
+#9 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/actions/CInlineAction.php(49): ContactPenController->actionIndex()
+#10 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CWebApplication.php(282): CController->run('')
+#14 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CWebApplication.php(141): CWebApplication->runController('contactPen')
+#15 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#16 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/contactPen
+---
+2017/04/02 18:13:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "piadmin/gii".' in /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CWebApplication.php(141): CWebApplication->runController('piadmin/gii')
+#1 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/piadmin/gii
+---
+2017/04/02 18:26:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site/login".' in /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#1 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /Volumes/DATA/WORK/PROJECT/CODE/Pif/code/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/site/login
+HTTP_REFERER=http://pif.vl/piadmin/pattern
+---

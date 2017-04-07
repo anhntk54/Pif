@@ -1,0 +1,410 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/lato-bold.woff2') format('woff2'), url('../fonts/lato-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/lato-regular.woff2') format('woff2'), url('../fonts/lato-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #313131;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 22px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+	color: #434343;
+    transition: 300ms ease all;
+}
+a:hover {
+	color: #179046;
+	text-decoration: none;
+	transition: 300ms ease all;
+}
+p {
+	text-align: justify;
+	color: inherit;
+}
+
+/*Top menu*/
+header {
+	padding: 20px 0;
+}
+#header>.container>.row>div:nth-of-type(2) {
+	display: flex;
+	justify-content: center;
+}
+.flag {
+	display: flex;
+	justify-content: flex-end;
+	margin-bottom: 20px;
+}
+.flag>a:first-child {
+	margin-right:10px;
+}
+
+/* Logo va banner */
+.banner {
+	padding: 120px 0;
+	display: block;
+	background: url(../images/banner.jpg) no-repeat center;
+	background-size: cover;
+	position: relative;
+}
+.banner:after {
+	width: 100%;
+	height: 100%;
+	display: block;
+	content: '';
+	position: absolute;
+	background: rgba(0,0,0,0.5);
+	top: 0;
+	left: 0;
+}
+.banner form {
+	color: #fff;
+	position: relative;
+	z-index: 2;
+}
+.banner form,.banner form legend p  {
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+}
+.banner form legend p {
+	text-transform: uppercase;
+}
+.banner form legend h3 {
+	text-transform: uppercase;
+	font-size: 35px;
+	font-weight: 300;
+	color: #fff;
+}
+.banner form button {
+	background: #00a651;
+	border-radius: 0px;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: bold;
+}
+header .form-inline .form-control{
+	border-radius: 0px;
+	position: relative;
+}
+header .form-inline input.form-control:after  {
+	position: absolute;
+	content: 
+
+}
+/*content*/ 
+#main section>h3, #main section>.container>h3{
+	font-family: 'Minion Pro', sans-serif;
+	font-weight:bold;
+	font-size: 35px;
+	color: #179046;
+	text-transform: uppercase;
+	padding-bottom: 15px;
+	margin-bottom: 30px;
+	border-bottom: 3px solid #179046;
+}
+#main section {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#main .info-hoptac {
+	background: #00a651;
+	color: #fff;
+	padding: 15px 35px 30px;
+	margin: 20px 0 50px;
+	position: relative;
+}
+#main .info-hoptac h2 {
+	font-size: 28px;
+	font-weight: 300;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+#main .info-hoptac ul li {
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+#main .info-hoptac ul li:before {
+	content: '\f058';
+	font-family: FontAwesome;
+	font-size: 120%;
+	color: inherit;
+	margin-right: 10px;
+}
+#main section#hieu-qua>h3 {
+	text-align: center;
+	border-bottom: 0px;
+}
+.checkbox input[type=checkbox], .checkbox-inline input[type=checkbox] {
+	width: 30px;
+	height: 30px;
+	background: transparent;
+	margin-left: -40px;
+}
+.checkbox label, .radio label {
+	min-height: 30px;
+	padding-left: 40px;
+	line-height: 40px;
+}
+a.btn-dautu {
+	width: 200px;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px 20px;
+	color: #fff;
+	text-shadow: 2px 3px 2px rgba(150, 150, 150, 1);
+	border: 1px solid #fe9213;
+	border-radius: 0px;
+	background: rgba(255,239,67,1);
+	background: -moz-linear-gradient(top, rgba(255,239,67,1) 0%, rgba(253,199,36,1) 52%, rgba(252,177,28,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,239,67,1)), color-stop(52%, rgba(253,199,36,1)), color-stop(100%, rgba(252,177,28,1)));
+	background: -webkit-linear-gradient(top, rgba(255,239,67,1) 0%, rgba(253,199,36,1) 52%, rgba(252,177,28,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,239,67,1) 0%, rgba(253,199,36,1) 52%, rgba(252,177,28,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,239,67,1) 0%, rgba(253,199,36,1) 52%, rgba(252,177,28,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,239,67,1) 0%, rgba(253,199,36,1) 52%, rgba(252,177,28,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffef43', endColorstr='#fcb11c', GradientType=0 );
+}
+#main .info-hoptac a.btn-dautu {
+	position: absolute;
+	bottom: 0px;
+	left: 50%;
+	margin-left: -100px;
+	margin-bottom: -24px;
+}
+.steps {
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#main #cacbuoc {
+	background: #f6f6f6;
+}
+#main #cacbuoc  .steps {
+	margin-bottom: 20px;
+}
+#main #cacbuoc  .steps h6{
+	font-weight: bold;
+	text-align: center;
+	font-size: 25px;
+	color: #00a651;
+	text-transform: uppercase;
+}
+#main #cacbuoc  .steps p {
+	font-weight: bold;
+	font-size: 20px;
+	color: #434343;
+	text-align: center;
+	text-transform: uppercase;
+}
+#main #cacbuoc  .steps .step-box {
+	text-align: center;
+}
+.bigbox {
+	display: block;
+	margin-bottom: 10px;
+	position: relative;
+}
+.bigbox figure {
+	display: block;
+	height: 200px;
+	overflow: hidden;
+	border: 1px solid #ddd;
+}
+.bigbox h5 a{
+	font-family: 'Minion Pro', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	text-transform: uppercase;
+	line-height: 28px;
+}
+.bigbox>a {
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: right;
+	color: #434343;
+	margin-bottom: 20px;
+}
+.bigbox>a:hover {
+	color: #179046;
+}
+.bigbox>h4 span{
+	color: #fff;
+	padding: 7px 15px;
+	background: #179046;
+	text-transform: uppercase;
+}
+.bigbox>h4 {
+	margin-bottom: 30px;
+	position: relative;
+}
+.bigbox>h4:after {
+	position: absolute;
+	height: 2px;
+	width: 100%;
+	left: 0;
+	top: 50%;
+	background: #179046;
+	margin-top: -1px;
+	z-index: -1;
+	content: '';
+}
+.bigbox ul li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: 1px solid #179046;
+}
+.bigbox ul li a {
+	font-weight: bold;
+}
+.smallbox {
+	clear: both;
+}
+.smallbox figure{
+	margin: 0px 15px 20px 0px;
+	height: 80px;
+	max-width: 25%;
+	overflow: hidden;
+	float: left;
+}
+.smallbox figure a img {
+	height: 80px;
+}
+.smallbox h5 {
+	margin-top: 0px;
+}
+.smallbox h5 a {
+	color: #434343;
+	font-size: 14px;
+	font-family: 'Minion Pro', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 24px;
+}
+.smallbox h5 a:hover {
+	color: #179046;
+	text-decoration: none;
+}
+.smallbox .date {
+	font-size: 12px;
+	color: #7a7a7a;
+}
+.smallbox .date:before {
+	content: '\f017';
+	font-size: 12px;
+	font-family: FontAwesome;
+	margin-right:5px;
+}
+footer {
+	background: rgb(246,246,246);
+	padding:50px 0;
+}
+footer .footer-logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+footer address {
+	line-height: 26px;
+	font-weight: bold;
+	font-size: 16px;
+}
+footer figure {
+	height: 200px;
+	overflow: hidden;
+}
+footer figure img {
+	max-width: 100%;
+		
+
+}
+/* Cay danh muc */
+
+ul.rd-mobilemenu_ul {
+    padding-left: 15px;
+}
+
+@media screen and (min-width: 1024px) {
+	
+	
+}
+@media screen and (max-width: 767px) {
+    .hidden-phone {
+        display: none !important;
+    }
+    #header>.container>.row {
+		display: flex;
+    	flex-direction: column-reverse;
+	}
+	img {
+		margin-bottom: 20px;
+	}
+	.steps {
+		flex-direction: column;
+	}
+	.steps div:nth-child(even) img {
+    	transform: rotate(90deg);
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+}
+@media screen and (min-width: 768px) {
+	#header>.container>.row {
+		display: flex;
+    	justify-content: space-between;
+	}
+	#header>.container>.row>div:last-child {
+		display: flex;
+	    flex-direction: column;
+	    justify-content: center;
+	    align-items: flex-end;
+	}
+	.navbar-centered .navbar-nav {
+        float: none;
+        text-align: center;
+    }
+    .navbar-centered .navbar-nav > li {
+        float: none;
+    }
+    .navbar-centered .nav > li {
+        display: inline;
+    }
+    .navbar-centered .nav > li > a {
+        display: inline-block;
+        color: #434343;
+        font-family: 'Lato' sans-serif;
+        font-weight: 300;
+        text-transform: uppercase;
+    }
+    #main section .flex-row {
+    	display: flex;
+    }
+    #main section .flex-row .flex-item-center {
+    	display: flex;
+    	align-items: center;
+    }
+}

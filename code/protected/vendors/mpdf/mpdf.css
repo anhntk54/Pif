@@ -1,0 +1,27 @@
+/*
+   This is a secondary default stylesheet for mPDF
+   It will only parse element-level CSS here 
+   Remove the comment marks below and edit as required
+*/
+
+
+
+/* 
+   These values used to be the default prior to mPDF 4.2
+   Altered to make appearance closer to that of browsers
+   Uncomment these lines to return to behaviour prior to v4.2  
+*/
+
+
+/*
+img { margin: 0.83em 0; vertical-align: bottom; }
+table { margin: 0.5em; }
+textarea { vertical-align: top; }
+*/
+body
+{font-family: "Times New Roman"; font-size: 12pt; line-height: 1.5 !important;margin-top:6pt;margin-bottom:0pt
+}
+a{text-decoration: none;}
+ul{list-style: none;margin: 0px;}
+.table{width: 100%;max-width: 100%;margin-bottom: 20px;}.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{border-top: none !important;padding: 8px;line-height: 1.42857143;vertical-align: top;}
+#main p{margin-bottom:6pt !important;margin-top:6pt !important;line-height:1.5 !important}p{margin-top:10pt;margin-bottom:10pt;}
